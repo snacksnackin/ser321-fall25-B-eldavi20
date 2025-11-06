@@ -1,0 +1,14 @@
+cat
+dog
+sun
+moon
+tree
+book
+fish
+bird
+star
+ball
+home
+love
+game
+play

@@ -1,0 +1,14 @@
+computer
+elephant
+mountain
+rainbow
+butterfly
+calendar
+diamond
+library
+penguin
+sandwich
+umbrella
+volcano
+whisper
+kangaroo
