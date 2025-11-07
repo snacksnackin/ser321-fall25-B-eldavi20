@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testing" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-05T23:09:22.826Z" hostname="elliots-MacBook-Air.local" time="0.002">
+  <properties/>
+  <testcase name="echoCorrect" classname="Testing" time="0.0"/>
+  <testcase name="typeWrong" classname="Testing" time="0.002"/>
+  <testcase name="echoErrors" classname="Testing" time="0.0"/>
+  <system-out><![CDATA[Echo request: {"data":"whooooo","type":"echo"}
+Echo request: {"data1":"whooooo","type":"echo"}
+Echo request: {"data":33,"type":"echo"}
+Echo request: {"data":true,"type":"echo"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

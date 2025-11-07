@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ServerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-11-05T23:09:22.778Z" hostname="elliots-MacBook-Air.local" time="0.047">
+  <properties/>
+  <testcase name="addManyRequest" classname="ServerTest" time="0.039"/>
+  <testcase name="addRequest" classname="ServerTest" time="0.004"/>
+  <testcase name="echoRequest" classname="ServerTest" time="0.001"/>
+  <testcase name="notJSON" classname="ServerTest" time="0.002"/>
+  <system-out><![CDATA[{"ok":false,"message":"Values in array need to be ints"}
+{"ok":false,"message":"Field num2 does not exist in request"}
+{"ok":false,"message":"Field num1 does not exist in request"}
+{"ok":false,"message":"Field num1 does not exist in request"}
+{"ok":false,"type":"add","message":"Field num1/num2 needs to be of type: int"}
+{"ok":false,"message":"Field data does not exist in request"}
+{"ok":false,"message":"Field num2 does not exist in request"}
+{"ok":false,"message":"Field num1 does not exist in request"}
+{"ok":false,"message":"Field num1 does not exist in request"}
+{"ok":false,"type":"add","message":"Field num1/num2 needs to be of type: int"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

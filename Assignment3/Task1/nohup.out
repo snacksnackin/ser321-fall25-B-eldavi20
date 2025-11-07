@@ -1,0 +1,7 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :Server
+Server ready for connections
+Server waiting for a connection

@@ -1,0 +1,14 @@
+9{"ok":false,"message":"Values in array need to be ints"}
+>{"ok":false,"message":"Field num2 does not exist in request"}
+>{"ok":false,"message":"Field num1 does not exist in request"}
+>{"ok":false,"message":"Field num1 does not exist in request"}
+O{"ok":false,"type":"add","message":"Field num1/num2 needs to be of type: int"}
+>{"ok":false,"message":"Field data does not exist in request"}
+>{"ok":false,"message":"Field num2 does not exist in request"}
+>{"ok":false,"message":"Field num1 does not exist in request"}
+>{"ok":false,"message":"Field num1 does not exist in request"}
+O{"ok":false,"type":"add","message":"Field num1/num2 needs to be of type: int"}
+/Echo request: {"data":"whooooo","type":"echo"}
+	0Echo request: {"data1":"whooooo","type":"echo"}
+	(Echo request: {"data":33,"type":"echo"}
+	*Echo request: {"data":true,"type":"echo"}
